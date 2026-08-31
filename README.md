@@ -109,9 +109,10 @@ docs/         the screenshots above
 
 ## Related Systo skills
 
-- **hyperframes-render-discipline** for capturing frames off a governed loop. A governed
+- [**hyperframes-render-discipline**](https://github.com/systoai-design/hyperframes-render-discipline) for capturing frames off a governed loop. A governed
   page is not drawing while you sit there, so a naive screenshot returns a cleared buffer.
-- **swipefile** for capturing a reference site's design system before you build against it.
+- [**swipefile**](https://github.com/systoai-design/swipefile) for capturing a reference site's design system before you build against it.
+- [**motion-graphics-director**](https://github.com/systoai-design/motion-graphics-director) for linear video work rather than scroll-driven 3D.
 
 ## House style
 
