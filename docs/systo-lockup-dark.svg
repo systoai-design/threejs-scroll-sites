@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" width="760" height="240" role="img" aria-label="systo.">
+  <defs>
+    <linearGradient id="lf" x1="40" y1="60" x2="200" y2="196" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF7A3D"/>
+      <stop offset="1" stop-color="#FF4D2E"/>
+    </linearGradient>
+  </defs>
+  <!-- mark -->
+  <g transform="translate(40 48) scale(0.281)">
+    <rect width="512" height="512" rx="120" fill="#1C1A17"/>
+    <g fill="url(#lf)">
+      <rect x="120" y="140" width="272" height="72" rx="36"/>
+      <rect x="120" y="220" width="272" height="72" rx="36"/>
+      <rect x="120" y="300" width="272" height="72" rx="36"/>
+    </g>
+    <rect x="320" y="140" width="72" height="72" rx="36" fill="#1C1A17"/>
+    <rect x="120" y="300" width="72" height="72" rx="36" fill="#1C1A17"/>
+    <circle cx="356" cy="336" r="22" fill="#FFB627"/>
+  </g>
+  <!-- wordmark -->
+  <text x="216" y="152" font-family="'Bricolage Grotesque','Arial Black',sans-serif" font-weight="800" font-size="120" letter-spacing="-5" fill="#FFF4E8">systo<tspan fill="#FF532E">.</tspan></text>
+</svg>
