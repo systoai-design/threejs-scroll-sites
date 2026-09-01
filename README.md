@@ -114,6 +114,14 @@ docs/         the screenshots above
 - [**swipefile**](https://github.com/systoai-design/swipefile) for capturing a reference site's design system before you build against it.
 - [**motion-graphics-director**](https://github.com/systoai-design/motion-graphics-director) for linear video work rather than scroll-driven 3D.
 
+## Third-party code
+
+`demo/vendor/` contains Three.js (0.185) built files, bundled so the demo runs
+offline with no install step. Three.js is MIT, Copyright 2010-2026 Three.js
+Authors, and each file keeps its own `@license` header, which is where that
+notice lives. Everything else in this repository is the skill's own work under
+the MIT licence in LICENSE.
+
 ## House style
 
 Plain English, confident, warm. No em dashes.
